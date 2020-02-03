@@ -1,5 +1,4 @@
-//Musfera Khan, CS 1124, N10654695, HW08 Linked Lists
-//cpp file 
+
 
 #include "polynomial.h"
 #include <cstdlib>
